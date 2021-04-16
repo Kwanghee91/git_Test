@@ -1,3 +1,2 @@
-changed file
-다시 main branch의 d.txt 내용을 변경해본다.
-main d.txt
+main branch에서 mybranch의 d.txt 파일을 pull 해보겠음.
+mybranch d.txt
