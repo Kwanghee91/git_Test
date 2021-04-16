@@ -1,2 +1,2 @@
-main branch에서 mybranch의 d.txt 파일을 pull 해보겠음.
-mybranch d.txt
+mbofmb에서 mybranch를 pull하고 d.txt를 변경
+mbofmb d.txt
