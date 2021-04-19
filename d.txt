@@ -1,2 +1,2 @@
-mybranch 에서 d.txt 파일을 수정(10:10)
+mybranch 에서 d.txt 파일을 한번 더 수정(10:20)
 mybranch d.txt
