@@ -1,2 +1,2 @@
-mbofmb에서 mybranch를 pull하고 d.txt를 변경
+다 지우고 mbofmb에 d.txt만 남기고 내용 수정(10:15)
 mbofmb d.txt
