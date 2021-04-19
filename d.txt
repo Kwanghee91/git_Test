@@ -1,2 +1,7 @@
-다 지우고 mbofmb에 d.txt만 남기고 내용 수정(10:15)
+<<<<<<< HEAD
+mybranch에서 pull해서 d.txt의 내용 수정(10:40)
 mbofmb d.txt
+=======
+mybranch 에서 d.txt 파일을 한번 더 수정(10:20)
+mybranch d.txt
+>>>>>>> 1891a78c64560ec4049f2564d4a76cbfd08f35d4
